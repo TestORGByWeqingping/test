@@ -38,7 +38,7 @@ public class RedisApiProxy implements MethodInterceptor {
 		}
 		Object result=  method.invoke(ob, arg2);
 		System.out.println(RedisDataSource.getdataSource());
-		System.out.println(RedisDataSource.getdataSource());
+		System.out.println("are you ok");
 
 		
 		
