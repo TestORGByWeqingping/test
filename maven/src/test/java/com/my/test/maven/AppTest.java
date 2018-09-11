@@ -26,6 +26,7 @@ public class AppTest
     	
     	
         super( testName );
+        System.out.println("1223344444");
         System.out.println("qwwwww");
     }
 
