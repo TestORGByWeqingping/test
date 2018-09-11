@@ -19,18 +19,12 @@ public class AppTest
 	
 	
     public AppTest( String testName )
-    {
-    	
-    	
-    	
-    	
-    	
-    	
-    	
-    	  System.out.println("qwwwww");
-    	
-            super( testName );
-      
+    { 
+
+        super( testName );
+        System.out.println("1223344444");
+        System.out.println("qwwwww");
+
     }
 
     /**
