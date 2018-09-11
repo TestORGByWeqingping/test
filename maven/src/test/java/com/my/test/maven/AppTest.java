@@ -27,10 +27,10 @@ public class AppTest
     	
     	
     	
+    	  System.out.println("qwwwww");
     	
-    	
-        super( testName );
-        System.out.println("qwwwww");
+            super( testName );
+      
     }
 
     /**
